@@ -4,6 +4,8 @@
 
 My resume
 
+**[PDF Version](https://github.com/kingcos/Resume/releases/tag/v1.0-beta)**
+
 ## Personal Information
 
 - Name: Ming Mai
