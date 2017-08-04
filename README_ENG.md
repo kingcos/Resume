@@ -34,6 +34,6 @@ My resume
 - 2015 - 2016 National Scholarship;
 - Personal blog: [https://maimieng.com](https://maimieng.com);
 - JianShu: [http://www.jianshu.com/users/b88081164fe8/latest_articles](http://www.jianshu.com/users/b88081164fe8);
-- JueJin.im: [https://juejin.im/user/576a484d1532bc006046d078](https://juejin.im/user/576a484d1532bc006046d078)；
+- JueJin.im: [https://juejin.im/user/576a484d1532bc006046d078](https://juejin.im/user/576a484d1532bc006046d078);
 - Love technology, code clearly, but be lack of experience;
 - I hope I would join a company or department which value technique, and is open mind.
