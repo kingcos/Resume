@@ -4,6 +4,8 @@
 
 我的简历
 
+**[PDF 版本](https://github.com/kingcos/Resume/releases/tag/v1.0-beta)**
+
 ## 个人信息
 
 - 姓名：买明
