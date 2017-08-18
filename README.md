@@ -9,35 +9,46 @@
 ## 个人信息
 
 - 姓名：买明
+- 性别：男
 - 手机：`echo "MTcxMzM3OTEzMzQK" | base64 -D`
 - 邮箱：[kingcosv@hotmail.com](mailto:kingcosv@hotmail.com)
 - 学校：南阳理工学院（本科）
 - 专业：软件工程
 - 年级：2018 届
 - 地点：上海
-- 职位：iOS 开发实习生
+- 职位：**iOS 开发实习生**
 
-## 专业技能
+## 技能
 
-1. 熟悉 Swift，了解 Objective-C；
-2. 了解 Cocoa Touch 框架及 iOS 开发基本知识；
-3. 了解 Java，及 Android 和 J2EE 基本开发；
-4. 了解 Git。
+1. 熟悉 Swift，了解 Objective-C，及 iOS 开发基本知识；
+2. 了解 Java，及 Android 和 J2EE 基本开发；
+3. 了解 Git，RxSwift，Sketch。
 
-## 项目经验
+## 经验
 
-- [https://github.com/kingcos](https://github.com/kingcos)
+> 以下提及的项目均在 [github.com/kingcos](https://github.com/kingcos) 开源。
 
-> 坦白说，iOS 相关的项目经验目前基本为 0，因为在校做的不是 iOS 项目，而且 GitHub 上 Stars 较多的项目也不能算是真正的项目，仅有几个练手的小项目，故在此没有列出。
+- [高新区管理平台 - 负责设计/Web 后端/Android/iOS](https://github.com/kingcos/GXQSyetem-iOS)
+
+> iOS 端使用了 MVVM 架构合理分层。通过与后端交互实现了用户浏览、发布工作动态，以及人员信息管理等功能。
+
+- [豆瓣妹子图 Swift 版 - 负责 iOS App](https://github.com/kingcos/iMeiZi)
+
+> iOS 端使用了 MVC 架构。实现了瀑布流显示图片，以及清除缓存等功能。
+
+- [仿 OFO 共享单车 - 负责 iOS App](https://github.com/kingcos/OFOBike)
+
+> iOS 端使用了 MVC 架构。模仿了 OFO 的基本 UI 和地图定位、找车，以及输入和响应解锁码的逻辑。
+
+- [个人博客 - https://maimieng.com](https://maimieng.com) & [简书 - http://www.jianshu.com/users/b88081164fe8/](http://www.jianshu.com/users/b88081164fe8/)
+
+> 总结分享学习中遇到的问题，部分总结较为完整的文章会发布在[掘金专栏](https://juejin.im/user/576a484d1532bc006046d078)。但由于托管在 GitHub，国内访问速度不理想，目前暂时转至简书。
 
 ## 其他
 
 - CET-4 532 & CET-6 493，拥有较好的英文阅读习惯与能力；
 - 2015 - 2016 学年国家奖学金；
-- 个人博客：[https://maimieng.com](https://maimieng.com)（由于访问速度等问题目前暂时转至简书）；
-- 简书：[http://www.jianshu.com/users/b88081164fe8/latest_articles](http://www.jianshu.com/users/b88081164fe8)；
-- 掘金专栏：[https://juejin.im/user/576a484d1532bc006046d078](https://juejin.im/user/576a484d1532bc006046d078)；
-- 热爱技术，有代码「洁癖」，但缺乏实际的项目经验；
+- 热爱技术，有代码「洁癖」，热衷开源，分享；
 - 希望贵司是一家重视技术、开放的公司。
 
 ---
