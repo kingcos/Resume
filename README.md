@@ -38,11 +38,11 @@
 
 - [仿 OFO 共享单车 - 负责 iOS App](https://github.com/kingcos/OFOBike)
 
-> iOS 端使用了 MVC 架构。模仿了 OFO 的基本 UI 和地图定位、找车，以及输入和响应解锁码的逻辑。
+> iOS 端使用了 MVC 架构。模仿了 OFO 的基本 UI 和地图定位、找车，以及输入和响应解锁码的逻辑。
 
 - [个人博客 - https://maimieng.com](https://maimieng.com) & [简书 - http://www.jianshu.com/users/b88081164fe8/](http://www.jianshu.com/users/b88081164fe8/)
 
-> 总结分享学习中遇到的问题，部分总结较为完整的文章会发布在[掘金专栏](https://juejin.im/user/576a484d1532bc006046d078)。但由于托管在 GitHub，国内访问速度不理想，目前暂时转至简书。
+> 总结分享学习中遇到的问题，部分总结较为完整的文章会发布在[掘金专栏](https://juejin.im/user/576a484d1532bc006046d078)。但由于托管在 GitHub，国内访问速度不理想，目前暂时转至简书。
 
 ## 其他
 
