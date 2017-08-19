@@ -42,7 +42,7 @@
 
 - [个人博客 - https://maimieng.com](https://maimieng.com) & [简书 - http://www.jianshu.com/users/b88081164fe8/](http://www.jianshu.com/users/b88081164fe8/)
 
-> 总结分享学习中遇到的问题，部分总结较为完整的文章会发布在[掘金专栏](https://juejin.im/user/576a484d1532bc006046d078)。但由于托管在 GitHub，国内访问速度不理想，目前暂时转至简书。
+> 总结分享学习中遇到的问题，部分总结较为完整的文章会发布在[掘金专栏](https://juejin.im/user/576a484d1532bc006046d078)。但由于托管在 GitHub，国内访问速度不理想，目前暂时转至[简书](http://www.jianshu.com/users/b88081164fe8/)。
 
 ## 其他
 
