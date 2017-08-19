@@ -28,15 +28,15 @@
 
 > 以下提及的项目均在 [github.com/kingcos](https://github.com/kingcos) 开源。
 
-- [高新区管理平台 - 负责设计/Web 后端/Android/iOS](https://github.com/kingcos/GXQSyetem-iOS)
+- [**高新区管理平台 - 负责设计/Web 后端/Android/iOS**](https://github.com/kingcos/GXQSyetem-iOS)
 
 > iOS 端使用了 MVVM 架构合理分层。通过与后端交互实现了用户浏览、发布工作动态，以及人员信息管理等功能。
 
-- [豆瓣妹子图 Swift 版 - 负责 iOS App](https://github.com/kingcos/iMeiZi)
+- [**豆瓣妹子图 Swift 版 - 负责 iOS App**](https://github.com/kingcos/iMeiZi)
 
 > iOS 端使用了 MVC 架构。实现了瀑布流显示图片，以及清除缓存等功能。
 
-- [仿 OFO 共享单车 - 负责 iOS App](https://github.com/kingcos/OFOBike)
+- [**仿 OFO 共享单车 - 负责 iOS App**](https://github.com/kingcos/OFOBike)
 
 > iOS 端使用了 MVC 架构。模仿了 OFO 的基本 UI 和地图定位、找车，以及输入和响应解锁码的逻辑。
 
