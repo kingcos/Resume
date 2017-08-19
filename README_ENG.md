@@ -8,7 +8,7 @@ My resume
 
 ## Personal Information
 
-- Name: Ming Mai
+- Name: Mai Ming
 - Gender: Male
 - Phone Number: `echo "Kzg2IDE3MTMzNzkxMzM0DQo=" | base64 -D`
 - E-mail: [kingcosv@hotmail.com](mailto:kingcosv@hotmail.com)
