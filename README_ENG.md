@@ -4,7 +4,7 @@
 
 My resume
 
-**[PDF Version](https://github.com/kingcos/Resume/releases/tag/v1.0-beta)**
+**[PDF Version](https://github.com/kingcos/Resume/releases/tag/v1.0)**
 
 ## Personal Information
 

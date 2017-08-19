@@ -4,7 +4,7 @@
 
 我的简历
 
-**[PDF 版本](https://github.com/kingcos/Resume/releases/tag/v1.0-beta)**
+**[PDF 版本](https://github.com/kingcos/Resume/releases/tag/v1.0)**
 
 ## 个人信息
 
