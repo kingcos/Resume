@@ -30,7 +30,7 @@ My resume
 
 - [**GXQ System - Deal with Design/Back end/Android/iOS**](https://github.com/kingcos/GXQSyetem-iOS)
 
-> MVVM architecture. It implemented how user to browse or publish plans, and information management of staffs.
+> MVVM architecture. It implemented how user to browse or publish plans, and information management of staffs.
 
 - [**Beauties Gallery - Deal with iOS App**](https://github.com/kingcos/iMeiZi)
 
