@@ -1,10 +1,5 @@
 # 校招
 
-| Company | Position | Date | Notes |
-|:-----:|:-----:|:-----:|:-----:|
-| 小米 | CS193p UIApplication | 3.1 | 8.3.2 |
-| 2017-03-28 | 首次提交 | 3.0 | 8.2.1 |
-
 ## 小米
 
 - 流程：网申-宣讲（无上海）-笔试-面试-Offer
@@ -79,7 +74,7 @@ iOS 工作要求:
 - 面试：10.21 - 10.28
 - Offer: 11.3
 - 地点：北京 上海
-- 网址：微信关注「MO 蹬家庭」
+- 网址：微信关注「MO 蹬家庭」
 - 其他：无 iOS
 
 ## 顺丰科技
@@ -89,7 +84,7 @@ iOS 工作要求:
 - 网申截止日后 1-2 工作日
 - 面试：1 轮素质面试及 1-2 轮技术面试（需携带个人简历、成绩单和四六级证书复印件）
 - 地点：深圳 - 15
-- 网址：[http://campus.sf-tech.com.cn/campusRecruitment/Jobs.html?p=1145971342](http://campus.sf-tech.com.cn/campusRecruitment/Jobs.html?p=1145971342)
+- 网址：[http://campus.sf-tech.com.cn/campusRecruitment/Jobs.html?p=1145971342](http://campus.sf-tech.com.cn/campusRecruitment/Jobs.html?p=1145971342)
 
 ```
 iOS 任职要求：
@@ -104,7 +99,7 @@ iOS 任职要求：
 - 流程：网申-宣讲-笔试-面试-Offer
 - 时间：待定
 - 地点：上海
-- 网址：[http://www.pinduoduo.com/campus.html](http://www.pinduoduo.com/campus.html)
+- 网址：[http://www.pinduoduo.com/campus.html](http://www.pinduoduo.com/campus.html)
 - 邮箱：pddcampus@pinduoduo.com（【官网】岗位-学校-专业-姓名）
 
 ```
