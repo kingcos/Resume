@@ -16,7 +16,7 @@ My resume
 - Department: Software Engineering
 - Grade: Junior (2014 - 2018)
 - Location: Shanghai
-- Position: **iOS development internship**
+- Position: **iOS development**
 
 ## Skills
 
@@ -32,9 +32,9 @@ My resume
 
 > MVVM architecture. It implemented how user to browse or publish plans, and information management of staffs.
 
-- [**Beauties Gallery - Deal with iOS App**](https://github.com/kingcos/iMeiZi)
+- [WWDCHelper - A Swift command line tool](https://github.com/kingcos/WWDCHelper)
 
-> MVC architecture. It implemented how to list images like waterfall, and like cache clear functions and more.
+> This helper is developed in Swift. It can get WWDC 2017 sessions info, and download subtitles, then transform to SRT format.
 
 - [**OFO Copy - Deal with iOS App**](https://github.com/kingcos/OFOBike)
 
