@@ -32,7 +32,7 @@
 
 > iOS 端使用了 MVVM 架构合理分层。通过与后端交互实现了用户浏览、发布工作动态，以及人员信息管理等功能。
 
-- [WWDCHelper - 纯 Swift 命令行脚本](https://github.com/kingcos/WWDCHelper)
+- [**WWDCHelper - 纯 Swift 命令行脚本**](https://github.com/kingcos/WWDCHelper)
 
 > 该命令行脚本使用 Swift 开发，可以获取 WWDC 2017 Session 信息，以及解析下载 WebVTT 格式字幕并转码为 SRT 格式。
 

@@ -32,7 +32,7 @@ My resume
 
 > MVVM architecture. It implemented how user to browse or publish plans, and information management of staffs.
 
-- [WWDCHelper - A Swift command line tool](https://github.com/kingcos/WWDCHelper)
+- [**WWDCHelper - A Swift command line tool**](https://github.com/kingcos/WWDCHelper)
 
 > This helper is developed in Swift. It can get WWDC 2017 sessions info, and download subtitles, then transform to SRT format.
 
