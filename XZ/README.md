@@ -2,9 +2,8 @@
 
 ## 小米
 
-- 流程：网申-宣讲（无上海）-笔试-面试-Offer
-- 网申：8.21 - 9.17
-- 笔试：9.18 19:00 - 21:00
+- 流程：面试-Offer
+- Status：已网申-已笔试
 - 地点：北京
 - 网址：[http://hr.xiaomi.com/campus/list/0-1-0](http://hr.xiaomi.com/campus/list/0-1-0)
 
@@ -19,10 +18,10 @@ iOS 工作要求：
 
 ## 百度
 
-- 流程：网申-宣讲-笔试-面试-Offer
-- 网申：7.29 - 9.22
+- 流程：笔试-面试-Offer
+- Status：已网申
 - 笔试：9.27
-- 地点：北京 - 60 上海 - 5
+- 地点：北京
 - 网址：[http://talent.baidu.com/external/baidu/campus.html#/jobList/0-1227-10002](http://talent.baidu.com/external/baidu/campus.html#/jobList/0-1227-10002)
 
 ```
@@ -48,11 +47,11 @@ iOS 职责要求:
 
 ## 美团点评
 
-- 流程：网申-笔试-面试-Offer
-- 网申：8.20 - 10.9
-- 笔试：9.14 10.11
+- 流程：笔试-面试-Offer
+- Status：已网申
+- 笔试：10.11
 - 面试：10.16 - 10.21
-- 地点：北京 上海
+- 地点：上海
 - 网址：[http://campus.meituan.com/#/main/graduate/post](http://campus.meituan.com/#/main/graduate/post)
 
 ```
@@ -73,9 +72,8 @@ iOS 工作要求:
 - 笔试：10.19
 - 面试：10.21 - 10.28
 - Offer: 11.3
-- 地点：北京 上海
+- 地点：北京
 - 网址：微信关注「MO 蹬家庭」
-- 其他：无 iOS
 
 ## 顺丰科技
 
@@ -96,7 +94,8 @@ iOS 任职要求：
 
 ## 拼多多
 
-- 流程：网申-宣讲-笔试-面试-Offer
+- 流程：宣讲-笔试-面试-Offer
+- Status：已投简历
 - 时间：待定
 - 地点：上海
 - 网址：[http://www.pinduoduo.com/campus.html](http://www.pinduoduo.com/campus.html)
@@ -110,3 +109,26 @@ iOS【任职要求】
 4. 熟悉C++，具备跨语言开发经验优先；
 5. 关注新事物、新技术，有较强的学习能力，喜欢挑战，个性乐观开朗，逻辑性强，善于和合作沟通；
 ```
+
+## 知乎
+
+- 地点：北京
+- 网址：[http://zhihu.zhiye.com/Campus](http://zhihu.zhiye.com/Campus)
+
+## 喜马拉雅
+
+## 英语流利说
+
+- 地点：上海
+- 网址：[https://www.liulishuo.com/campus.html#jobs](https://www.liulishuo.com/campus.html#jobs)
+
+```
+iOS
+计算机基础扎实，有一定的数据结构和算法基础，有良好的编码风格；
+热爱移动 App 开发，对新事物敏感，喜欢探索，有较强的创新意识与责任感；
+有独立完整开发 App 经验优先，有个人上架 App 优先。
+Android端：熟悉 Android 的 UI 布局，屏幕分辨率兼容和版本兼容原理； 熟练使用 Android Studio 及相关调试工具。
+iOS端：掌握 Swift 语言，用 Swift 开发过完整项目或整个模块者优先，熟练使用 Xcode 及相关调试工具。
+```
+
+## 今日头条
