@@ -1,16 +1,12 @@
 # Resume
 
-[English Version](README_ENG.md)
-
-我的简历
-
-**[PDF 版本](https://github.com/kingcos/Resume/releases/tag/v1.0)**
+在线版本：[https://github.com/kingcos/Resume](https://github.com/kingcos/Resume)
 
 ## 个人信息
 
 - 姓名：买明
 - 性别：男
-- 手机：`echo "MTcxMzM3OTEzMzQK" | base64 -D`
+- 手机：171 3379 1334
 - 邮箱：kingcosv@hotmail.com
 - 学校：南阳理工学院（本科）
 - 专业：软件工程
