@@ -38,9 +38,9 @@
 
 > 该命令行脚本可以获取 WWDC 2017 Session 信息，以及解析下载 WebVTT 格式字幕并转码为 SRT 格式。在开发过程中查阅了部分资料，完成了整个程序的开发，以及相应的单元测试。
 
-- [**HACKxFDU 2017 识谱 App 荣获第三名 - 负责 iOS 端/部分后端**](https://www.hackx.org/projects/189)
+- [**HACKxFDU 2017 识谱 App - 负责 iOS 端/部分后端**](https://www.hackx.org/projects/189)
 
-> 该程序为参加 HACKxFDU 2017 黑客马拉松项目。
+> 该程序为参加 HACKxFDU 2017 黑客马拉松项目，并获得第三名。
 
 - [个人博客 - https://maimieng.com](https://maimieng.com) & [简书 - http://www.jianshu.com/users/b88081164fe8/](http://www.jianshu.com/users/b88081164fe8/)
 
