@@ -40,7 +40,7 @@
 
 - [**HACKxFDU 2017 识谱 App - 负责 iOS 端/部分后端**](https://www.hackx.org/projects/189)
 
-> 该程序为参加 HACKxFDU 2017 黑客马拉松项目，并获得第三名。
+> 该程序为参加 HACKxFDU 2017 黑客马拉松项目。使用者可以通过手机给食材拍照即可获取相应的食谱。最后我们队伍凭借该项目获得大赛第三名。
 
 - [个人博客 - https://maimieng.com](https://maimieng.com) & [简书 - http://www.jianshu.com/users/b88081164fe8/](http://www.jianshu.com/users/b88081164fe8/)
 
@@ -50,4 +50,5 @@
 
 - CET-4 532 & CET-6 493，拥有良好的英文阅读习惯与能力；
 - 2015 - 2016 学年国家奖学金，综合成绩专业第一；
-- 热爱技术，有代码「洁癖」，热衷开源，分享。
+- 热爱技术，有代码「洁癖」，热衷开源，分享；
+- 有志深入学习 macOS/iOS 底层及逆向、安全相关。

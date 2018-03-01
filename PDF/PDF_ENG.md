@@ -1,16 +1,12 @@
 # Resume
 
-[中文版本](README.md)
-
-My resume
-
-**[PDF Version](https://github.com/kingcos/Resume/releases/tag/v2.0)**
+Online version: [https://github.com/kingcos/Resume](https://github.com/kingcos/Resume)
 
 ## Personal Information
 
 - Name: Mai Ming
 - Gender: Male
-- Phone Number: `echo "Kzg2IDE3MTMzNzkxMzM0DQo=" | base64 -D`
+- Phone Number: +86 171 3379 1334
 - E-mail: [kingcosv@hotmail.com](mailto:kingcosv@hotmail.com)
 - School: Nanyang Institute of Technology (Undergraduate)
 - Department: Software Engineering
@@ -56,5 +52,5 @@ My resume
 - Won #1 in my department during 3 years;
 - Love technology & code clearly;
 - Love open-source & share;
-- I will deep in learning macOS/iOS & reverse engineering;
+- I will study in learning macOS/iOS & reverse engineering in depth;
 - I hope your company or department values technique, and is open mind.
