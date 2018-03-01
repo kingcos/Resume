@@ -48,8 +48,8 @@ Online version: [https://github.com/kingcos/Resume](https://github.com/kingcos/R
 ## Others
 
 - CET-4 532 & CET-6 493, good at reading and writing in English;
-- 2015 - 2016 China National Scholarship
-- Won #1 in my department during 3 years;
+- 2015 - 2016 China National Scholarship;
+- 1st place in my department during 3 years (GPA 3.72);
 - Love technology & code clearly;
 - Love open-source & share;
 - I will study in learning macOS/iOS & reverse engineering in depth;

@@ -52,7 +52,7 @@ My resume
 ## Others
 
 - CET-4 532 & CET-6 493, good at reading and writing in English;
-- 2015 - 2016 China National Scholarship
+- 2015 - 2016 China National Scholarship;
 - Won #1 in my department during 3 years;
 - Love technology & code clearly;
 - Love open-source & share;
