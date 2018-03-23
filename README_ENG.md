@@ -25,7 +25,7 @@ My resume
 
 ## Internship
 
-- 2017/12 - 2018/02 Mobike - iOS Development
+- 2017/12 - Now Mobike - iOS Development
   - Involved in the development & debugging of Mobike official iOS App;
   - Involved in the research and practice of using Swift and componentization.
 
