@@ -1,8 +1,8 @@
-# Resume
+# Résumé
 
 [中文版本](README.md)
 
-My resume
+My résumé
 
 **[PDF Version](https://github.com/kingcos/Resume/releases/tag/v2.0)**
 
