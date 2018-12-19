@@ -1,4 +1,4 @@
-# Resume
+# Résumé
 
 [English Version](README_ENG.md)
 
